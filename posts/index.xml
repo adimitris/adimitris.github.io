@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Dimitris Alexandridis</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Dimitris Alexandridis</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 21 Mar 2019 21:19:03 +0200</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World!</title>
+            <link>/posts/2019/03/hello-world/</link>
+            <pubDate>Thu, 21 Mar 2019 21:19:03 +0200</pubDate>
+            
+            <guid>/posts/2019/03/hello-world/</guid>
+            <description>I recently came across Hugo the other day while reading this article of my dear friends at deltahacker.gr. Thought it&amp;rsquo;d be a cool little project to make a personal website using Hugo in order to get to know the glory of static website generators and tick &amp;ldquo;Make a personal website&amp;rdquo; off my weekly checklist.
+It&amp;rsquo;s been a fun experience and a nice break from revising Linear Algebra.. Next task is to find out why the site&amp;rsquo;s favicon won&amp;rsquo;t appear on Chrome browsers and maybe brainstorm ways I can make use of this place.</description>
+            <content type="html"><![CDATA[<p><strong>I recently came across</strong> <a href="http://gohugo.io/">Hugo</a> the other day while reading this <a href="https://deltahacker.gr/text/hugo-static-site/">article</a> of my dear friends at <a href="https://deltahacker.gr">deltahacker.gr</a>. Thought it&rsquo;d be a cool little project to make a personal website using Hugo in order to get to know the glory of static website generators and tick &ldquo;Make a personal website&rdquo; off my weekly checklist.</p>
+
+<p>It&rsquo;s been a fun experience and a nice break from revising Linear Algebra.. Next task is to find out why the site&rsquo;s favicon won&rsquo;t appear on Chrome browsers and maybe brainstorm ways I can make use of this place.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

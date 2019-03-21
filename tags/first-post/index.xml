@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dimitris Alexandridis</title>
-    <link>/</link>
-    <description>Recent content on Dimitris Alexandridis</description>
+    <title>First Post on Dimitris Alexandridis</title>
+    <link>/tags/first-post/</link>
+    <description>Recent content in First Post on Dimitris Alexandridis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 21:19:03 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/posts/2019/03/hello-world/</guid>
       <description>I recently came across Hugo the other day while reading this article of my dear friends at deltahacker.gr. Thought it&amp;rsquo;d be a cool little project to make a personal website using Hugo in order to get to know the glory of static website generators and tick &amp;ldquo;Make a personal website&amp;rdquo; off my weekly checklist.
 It&amp;rsquo;s been a fun experience and a nice break from revising Linear Algebra.. Next task is to find out why the site&amp;rsquo;s favicon won&amp;rsquo;t appear on Chrome browsers and maybe brainstorm ways I can make use of this place.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 15 Mar 2019 13:44:55 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I believe that the best way to truly learn a skill, a process or an idea is to build something that demonstrates it. I&amp;rsquo;m trying to find a good reason why I am so passionate to spend so much of my free time programming and working with computers and electronic circuits. I really cannot find a definite answer to this question. I believe that my interest in computer engineering arises from my tendency to explore thought and learning: by combining computer hardware and software, an engineer can manufacture and program an intelligent machine that replicates part of their thinking.</description>
     </item>
     
   </channel>
