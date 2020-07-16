@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 21 Mar 2019 21:19:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 18:44:21 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Education</title>
+      <link>/education/</link>
+      <pubDate>Sun, 12 Jul 2020 18:44:21 +0300</pubDate>
+      
+      <guid>/education/</guid>
+      <description>🚧 This page is under construction. 🚧</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Sun, 12 Jul 2020 18:44:21 +0300</pubDate>
+      
+      <guid>/experience/</guid>
+      <description>Summer 2019 - Raycap, Greece – IT developer, Smart Plant Transition (Operations Dept.)  Developed online reporting pipeline (Python) of material resources consumed and parts manufactured in factory’s punching machines, effectively accelerating a primary bottleneck of the production process. Observed production stages and cooperated with technicians to identify useful performance metrics. Installed sensors and developed cloud processes (image processing, power signal analysis) that calculate the Overall Equipment Efficiency (OEE) of the factory&amp;rsquo;s manufacturing machinery (300 human operators).</description>
+    </item>
     
     <item>
       <title>Hello World!</title>
